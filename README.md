@@ -1,2 +1,2 @@
-# counselmoreapi
-API that handles comunication between counselmore web app and zapier services such as authentication and trigger integrations
+# CounselMore API
+API that handles comunication between CounselMore web application and Zapier services such as authentication and trigger integrations.
